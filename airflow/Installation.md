@@ -1,5 +1,5 @@
 ## Pre Requiste
-- Ubuntu Linux
+- [Ubuntu Linux](https://airflow.apache.org/docs/apache-airflow/stable/installation/prerequisites.html)
 
 ### Update all the Packages
 - sudo apt-get install software-properties-common
