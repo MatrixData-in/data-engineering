@@ -19,7 +19,7 @@ sudo apt-get install libkrb5-dev
 ''' export AIRFLOW_HOME=~/airflowpip3 install apache-airflowpip3 install typing_extensions# initialize the database
 airflow initdb
 
-# start the web server, default port is 8080
+#### start the web server, default port is 8080
 airflow webserver -p 8080# start the scheduler. I recommend opening up a separate terminal #window for this step
 airflow scheduler
 
